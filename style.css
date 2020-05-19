@@ -1,3 +1,11 @@
 body{
     font-family:"Lucida Console", Courier, monospace ;
 }
+.home{
+    background-image: url("IMAGES/h_img.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    height: 100vh;
+}
