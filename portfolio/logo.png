@@ -20,7 +20,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-FG+rXqMOivrAjdEQE7tO4BwM1poGmg70hJFTlNSxjX87grtrZ6UnPR8NkzwUHlQEGviu9XuRYeO8zH9YwvZhdg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-146fab5ea30e8afac08dd11013bb4ee0.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-bFZFlDEeVGFKSh8NDze1QwrLWzrvjH/+VWU4rKibeBTJPN5BuoKEHxgHTYiiSu3oPqW5yjiS1aqXeYvXumtCcQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-6c564594311e54614a4a1f0d0f37b543.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-v8ZrYen1iFT0E0zoPA/H3Ei10+9AqBlXrjhBMUsbeOtAsh/CgUCuLLInbJwPXVOMMeGS8JaOvf8n9txtAy5s+g==" rel="stylesheet" href="https://github.githubassets.com/assets/github-bfc66b61e9f58854f4134ce83c0fc7dc.css" />
     
     
     
@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/30606402?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="jonnygovish/IP3" /><meta property="og:url" content="https://github.com/jonnygovish/IP3" /><meta property="og:description" content="Contribute to jonnygovish/IP3 development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTM1NTIwNzAyOjE4M2Q5YzQwZWUxODRkMDZkNmJjMzkzY2VhMWU4ZGI4YzA2MmViZjMzMzMxYzVhMmY5MzJkOGQzYTY2MDY2OTA=--c9a6b77f4cac4e359ee97f0ee10d796f0185f54b">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTM1NTIwNzAyOjEwZjBlNTBiMTk4ZTcyYTk3ZjlhZmRkNzYzNDE4Yzk4ZWIyMTkwYjJlZmU0MTQyOWQ0MTdlZjkxZjY1YzUzYmY=--39c06b259bde4d78b7fe2759a3081d2f57e16942">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="24AF:F80D:3D58200:584AC73:5EC284F9" data-pjax-transient="true" /><meta name="html-safe-nonce" content="ed84e26185304fe6aabd5cf09e7b5584b7192360" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9qb25ueWdvdmlzaC9JUDMvdHJlZS9tYXN0ZXIvYXNzZXRzL2xvZ28iLCJyZXF1ZXN0X2lkIjoiMjRBRjpGODBEOjNENTgyMDA6NTg0QUM3Mzo1RUMyODRGOSIsInZpc2l0b3JfaWQiOiI2Mzg0OTc4NDEzMzMwNjQyNDIiLCJyZWdpb25fZWRnZSI6ImFtcyIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="6ebc4595972a06d282eb6f200c04647d3c15156afaae1fae8c7413f3fb485779" data-pjax-transient="true" />
+  <meta name="request-id" content="A922:442E8:4A84ABE:6ADF6A6:5EC36037" data-pjax-transient="true" /><meta name="html-safe-nonce" content="ed84e26185304fe6aabd5cf09e7b5584b7192360" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9qb25ueWdvdmlzaC9JUDMvdHJlZS9tYXN0ZXIvYXNzZXRzL2xvZ28iLCJyZXF1ZXN0X2lkIjoiQTkyMjo0NDJFODo0QTg0QUJFOjZBREY2QTY6NUVDMzYwMzciLCJ2aXNpdG9yX2lkIjoiNjM4NDk3ODQxMzMzMDY0MjQyIiwicmVnaW9uX2VkZ2UiOiJhbXMiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="2d66ccdcb9884fffc5889a6dbc38b7835d114ef8b65a7e4c14690e3794925855" data-pjax-transient="true" />
 
 
 
@@ -77,11 +77,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MmU2ZjdmMGIxMjdiMTk4YTUyMTc2NDJiMWM4NzE1YWJjMTgwMDU2MzY3MDYzN2U0ZmQ0ZDdkZjcyMmY4Nzk2ZHx7InJlbW90ZV9hZGRyZXNzIjoiMTk3LjE1Ni4xOTEuMCIsInJlcXVlc3RfaWQiOiIyNEFGOkY4MEQ6M0Q1ODIwMDo1ODRBQzczOjVFQzI4NEY5IiwidGltZXN0YW1wIjoxNTg5ODA2MzM0LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="NDUzNmE0OWE1YzJmMGE2NWRmYzAzZWJkODAwOTM1ZmRmYWQ0ZDY0NzljOGFiNjI5YzdjOGRiNDFmMmU5ZGZkMXx7InJlbW90ZV9hZGRyZXNzIjoiMTAyLjE2Ny4xOTcuMjM3IiwicmVxdWVzdF9pZCI6IkE5MjI6NDQyRTg6NEE4NEFCRTo2QURGNkE2OjVFQzM2MDM3IiwidGltZXN0YW1wIjoxNTg5ODYyNDY3LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
-    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,PAGE_STALE_CHECK,JS_CHUNKING">
 
-  <meta http-equiv="x-pjax-version" content="f2c260bb9cbc2185b4612dbe66519e92">
+  <meta http-equiv="x-pjax-version" content="ce72a106ffe3a1b89707b79fec0b554c">
   
 
       <link href="https://github.com/jonnygovish/IP3/commits/master.atom" rel="alternate" title="Recent Commits to IP3:master" type="application/atom+xml">
@@ -165,7 +165,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="LlXckaLwkKIrxRUbMxgeB26G1jR0S683w8KqdwBEanOuWue5fACTbodXJs6oolGrymaDaZ/DLfyh4fc5r9h8eA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="AahTmJIRvzkFEV4aLygsSPxNFNkRrWKc0x/YUwTqokiBp2iwTOG89amDbc+0kmPkWK1BhPol4FexPIUdq3a0Qw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -316,7 +316,7 @@
       <img class="avatar avatar-user" src="https://avatars3.githubusercontent.com/u/65442006?s=40&amp;v=4" width="20" height="20" alt="@trever254" />
       trever254
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BIcmAgWU1UZp06RVe6a0AypJ37fOBc9o6XCLrwnagv/qETOV1vWueT3BN7Kvk+gJBQzPIO1tAZTvS1pzE24KXw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9fgLxgtnbg5VtSVkuCcGODVlAG+GFVNaUZftxwk5p7kbbh5R2AYVMQGntoNsEloyGiAQ+KV9naZXrDwbE40vGQ==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-3 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 17" version="1.1" width="16" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"></path></svg>
         Sign out
@@ -440,7 +440,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="GaIzjHZg5v3zZ1iYnXlEfUSSIEAiWdyEAniQe/ozOokDKa71MbFrXCsisvbuXY3Pk98mgSaY4YdvID3HH8rQ8Q==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="N4WCMesjo3B1puQcj1UVvbw9CVvuUBwlJWUV1phCy4stDh9IrPIu0a3jDnL8cdwPa3APmuqRISZIPbhqfbsh8w==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
@@ -558,22 +558,22 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-05-18T16:22:14+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-05-19T07:57:47+03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-05-18T16:52:14+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-05-19T08:27:47+03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-05-18T19:52:14+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-05-19T11:27:47+03:00">
             in 4 hours
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2020-05-18T23:59:59+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2020-05-19T23:59:59+03:00">
             today
           </button>
         </li>
@@ -637,12 +637,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="U4lsLDzVw4AXzSIVaNr0ih8v0GXWIDE0XY4eVnw5ec29H3m777S4v0PfsfK876iAMGrA8vVI/8hbtc+KZo3xbQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="F5KYLUPsrRGGm2KqqR2BXcZjPOL6MjC2FbggvMzPZbb5BI26kI3WLtKJ8U19KN1X6SYsddla/koTg/Fg1nvtFg==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_a10a" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1589806334265" class="form-control" /><input type="hidden" name="timestamp_secret" value="39460003897d2b3f5662075d705514fef67c10268bd104ec1ad45b0af519bd78" class="form-control" />
+      <input type="text" name="required_field_53ac" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1589862467489" class="form-control" /><input type="hidden" name="timestamp_secret" value="9b6f774171c5bf70ef4027f1bc7ddfe39f2974fe9400ea95dada121d50a193f0" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -727,10 +727,14 @@
 
 
 
+    <li hidden>
+      <include-fragment src="/jonnygovish/IP3/used_by_count" accept="text/fragment+html">
+</include-fragment>
+    </li>
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="O5wAWBcfm2mwwDjTNS5A6WXU+2mcl1ZXgFMnF7TZQxbkYWPf4UCVobKo2se5HFmML39tpH52yLhRQ6xLHv7mSA==" />      <input type="hidden" name="repository_id" value="184514373">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xAH0mWRSo8DSYKGqviCRlPkCodCsX4jOLfIr4TOcpdIb/Jcekg2tCNAIQ74yEojxs6k3HU6+FiH84qC9mbsAjA==" />      <input type="hidden" name="repository_id" value="184514373">
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:184514373,&quot;originating_url&quot;:&quot;https://github.com/jonnygovish/IP3/blob/master/assets/logo/logo.png&quot;,&quot;user_id&quot;:65442006}}" data-hydro-click-hmac="871741b1936482d08691259ed52c123790119e2a892829da2e4875ab8564e710" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
@@ -804,7 +808,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/jonnygovish/IP3/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LFsxg+Ipq66GgASFp3PGbXRSfzsHKVqGRyE8c5Iaeo6neBQTEY17c+0VJxUYORp5mmv+6Eu4vufxpHq0bMQmMQ==" />
+    <form class="starred js-social-form" action="/jonnygovish/IP3/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="L4npsTLmgxz9YwovztusX2f0vyrvuKtQrBUn4IrgxIqkqswhwUJTwZb2Kb9xkXBLic0++aMpTzEakGEndD6YNQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar jonnygovish/IP3" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:184514373,&quot;originating_url&quot;:&quot;https://github.com/jonnygovish/IP3/blob/master/assets/logo/logo.png&quot;,&quot;user_id&quot;:65442006}}" data-hydro-click-hmac="12694f0e32240e62cec7e8f35b823e60755fc83af1839fef17456cc998313e48" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
@@ -814,7 +818,7 @@
            1
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/jonnygovish/IP3/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="To8stwyCjoQ+Ndq62K2cX2bqsLMS/C2CZGCzc8A+24wrp5JtSFjwyzUHnHFwHOF0veM6ocVaoRaC5/cE+arVqw==" />
+    <form class="unstarred js-social-form" action="/jonnygovish/IP3/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wfZBX9ya4/g7ZqHGIoAfGCp/GN/02qJbQUrAB/TQxjuk3v+FmECdtzBU5w2KMWIz8XaSzSN8Ls+nzYRwzUTIHA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star jonnygovish/IP3" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:184514373,&quot;originating_url&quot;:&quot;https://github.com/jonnygovish/IP3/blob/master/assets/logo/logo.png&quot;,&quot;user_id&quot;:65442006}}" data-hydro-click-hmac="5ce86f985150b0d331bb986736f118223bf59ee42140cb4e7d6c827047d0ddb9" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
@@ -828,7 +832,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/jonnygovish/IP3/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FMF49KUW3IxTuUTA35X/6KxbFrDMjBas3HnLXD6XHrmXDI5pHB8LuNV4pXNTSoJx6ErVatz7BQh/OP/FaA88TA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/jonnygovish/IP3/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kH+quCB9ojM/ZIZSRctHzowAr/xOdT6xZu4IKx1jubITslwlmXR1B7mlZ+HJFDpXyBFsJl4CLRXFrzyyS/ubRw==" />
             <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:184514373,&quot;originating_url&quot;:&quot;https://github.com/jonnygovish/IP3/blob/master/assets/logo/logo.png&quot;,&quot;user_id&quot;:65442006}}" data-hydro-click-hmac="2c1ca4cb9490d095de695c81c4667c1618f8a228adc9e98539430527e91fa6bb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of jonnygovish/IP3 to your account" aria-label="Fork your own copy of jonnygovish/IP3 to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
               Fork
 </button></form>
@@ -1042,45 +1046,16 @@
 
 
 
-    
-  <div class="Box Box--condensed d-flex flex-column flex-shrink-0 mb-3">
-      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
-        <span class="pr-md-4 f6">
-          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/jonnygovish/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jonnygovish"><img class="avatar avatar-user" src="https://avatars0.githubusercontent.com/u/30606402?s=40&amp;v=4" width="20" height="20" alt="@jonnygovish" /></a>
-          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/users/jonnygovish/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jonnygovish">jonnygovish</a>
-            <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Initial commit" class="link-gray" href="/jonnygovish/IP3/commit/29ae761f301cddaf1dbacc9cea23f0a0acceaa91">Initial commit</a>
-            </span>
-        </span>
-        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/jonnygovish/IP3/commit/29ae761f301cddaf1dbacc9cea23f0a0acceaa91" data-pjax>29ae761</a>
-          <relative-time datetime="2019-05-02T03:40:59Z" class="no-wrap">May 2, 2019</relative-time>
-        </span>
+    <include-fragment src="/jonnygovish/IP3/contributors/master/assets/logo/logo.png" class="Box Box--condensed commit-loader">
+      <div class="Box-body bg-blue-light f6">
+        Fetching contributors&hellip;
       </div>
 
-    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
-      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
-        <summary class="btn-link">
-          <span><strong>1</strong> contributor</span>
-        </summary>
-        <details-dialog
-          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-          aria-label="Users who have contributed to this file"
-          src="/jonnygovish/IP3/contributors-list/master/assets/logo/logo.png" preload>
-          <div class="Box-header">
-            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
-            </button>
-            <h3 class="Box-title">
-              Users who have contributed to this file
-            </h3>
-          </div>
-          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
-        </details-dialog>
-      </details>
-    </div>
-  </div>
-
+      <div class="Box-body d-flex flex-items-center" >
+        <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
 
 
 
@@ -1112,7 +1087,7 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/jonnygovish/IP3/delete/master/assets/logo/logo.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GRklXTOIOI1eQA+i10mXvAap17mpvdw93TXdbPrlrzufRScli5P/Dw5blv0e7w5vhcXqqk9ZJLlzjAfuI9F1qQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/jonnygovish/IP3/delete/master/assets/logo/logo.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Vkdk2NY87JthdGdlUh9TPNPq4wLZdfs+DVvDun2fICTQG2agbicrGTFv/jqbucrvUIbeET+RA7qj4hk4pKv6tg==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
@@ -1201,8 +1176,10 @@
     <script crossorigin="anonymous" async="async" integrity="sha512-ASMgX6+DJ9LVZX/3Fj0RzibSpfigU83ubvsxxwriojWmuBM3faUp1108gypkhXpqLHEBQhIhjlzDOejzOFd0gA==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-0123205f.js"></script>
     <script crossorigin="anonymous" async="async" integrity="sha512-wzfe5LfqlZEDaJ9akVI/3xxCT8gqQRhgPpHff+K0MCbWCcc4Sxt6tQxwReV5/HKVr4cdd7p6oCgcoojw2FyemQ==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-c337dee4.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-0w7NHtInpdIaHr3Qy8ALCeWRZTo/OYlsgX+XZvnLNXwaUiR2Uk/Zx9Wr8oHA6eH7qyj+ENt5k8Eo31f5oAjWDA==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-d30ecd1e.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-8A0cSB2nQVuOBGSJQ4fXxo144Hm/WBfE+ihwoZ4Q2GhPdCpL4cLIlb1Jp49UmBnYget4GniBFRdSamJESf+1Gw==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-f00d1c48.js"></script>
     
+        <script crossorigin="anonymous" async="async" integrity="sha512-3Vk1NFIOm+TBUMM6pTA6DCUwwLLnc/QIT8jpENm71InvSU8O4p2plDagpst1tH1l+9jOBnneaXZnAskA9a2b3w==" type="application/javascript" data-module-id="./gist-vendor.js" data-src="https://github.githubassets.com/assets/gist-vendor-dd593534.js"></script>
+        <script crossorigin="anonymous" async="async" integrity="sha512-UnJNYxMSJrK52pJxiw6x/Lqt0RNWwqMW2wkgGchVtZpRFwdH5mpJjGwaLckS+n9gM3fC7eRMvfgYJS76jPYHJQ==" type="application/javascript" data-module-id="./drag-drop.js" data-src="https://github.githubassets.com/assets/drag-drop-52724d63.js"></script>
     
     
   <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
