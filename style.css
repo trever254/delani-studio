@@ -28,6 +28,11 @@ h3{
 h4{
     font-size: 50px;
 }
+h5{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
 h9{
     font-size: 50px;
     font-weight: bold;
