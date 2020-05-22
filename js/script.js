@@ -27,6 +27,6 @@ $(document).ready(function(){
            alert("Please insert your subject")
        }
        else{
-        alert("Hey!!"+ email + "Thank you for patnering with us,will get intouch");}
+        alert("Hey!!"+ email + "Thank you for patnering with us,will get intouch soon");}
     });
  });
