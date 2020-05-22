@@ -69,3 +69,9 @@ input[type=text], select, textarea{
 li{
     display: inline-block;
 }
+.pic1-onclick, .pic2-onclick, .pic3-onclick{
+    display: none;
+  }
+ .design-pic, .development-pic, .product-pic{
+    cursor: pointer;
+ }
